@@ -2,14 +2,6 @@
 
 - Porto Velho, Brasil.
 - Técnico em Informática, Eng. Software 1/8
-  
-&nbsp;
-
-<div align="" >
-<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=saykoouwy&show_icons=true&layout=compact&theme=merko&locale=pt-br" />
-</div>
-
-&nbsp;
 
 ### ✏️ Design Tools:
 
