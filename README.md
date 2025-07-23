@@ -1,10 +1,8 @@
 ## Hello, I'm William! 👋
 
-- 📍 Porto Velho, Brasil.
-- 🔭 Técnico em Informática, Cursando Redes de Computadores.
-- 🌱 Iniciante em desenvolvimento de Front-End.
-- ⚡ Café é muito bom.
-
+- Porto Velho, Brasil.
+- Técnico em Informática, Eng. Software 1/8
+  
 &nbsp;
 
 <div align="" >
